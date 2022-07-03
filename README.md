@@ -5,5 +5,8 @@ Generate Ebbinghaus forgetting curve schedule
 >>Ebbinghaus_Memory_System.v1.3.zip
 ## 2. Execute .exe
 >>Ebbinghaus_Memory_System.v1.3.exe
->>>#### 1.项目总数
+>>>#### 1. 项目总数
+>>>记忆项目里面包括的小任务总数
+>>>#### 2. 个数/单元
+>>>若干小任务也可以组成一个记忆单元
 
